@@ -1,0 +1,102 @@
+@charset "UTF-8";
+.container-fluid {
+    background-color: #87CEFA ;
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+    box-sizing: border-box;
+    border-color: black;
+    border: 2px solid;
+    background-color:gray;
+    padding-bottom: 1px;
+}
+
+ .funções {
+    font-size: 50px;
+    text-align: center;
+    background-color: grey;
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+ .navbar-brand {
+    font-size: 50px;
+    padding: 0cm;
+    font-weight: lighter;
+ }
+
+
+ @media screen and (min-width: 1920px) {
+    main {
+        height: 70vh;
+    }
+ }
+
+
+ @media screen and (min-width: 980px) {
+    main {
+        height: 60vh;
+    }
+ }
+
+ @media  screen and (max-width: 360px) {
+    main {
+        background-color: var(bs--warning);
+    }    
+ } 
+
+  .navbar-toggler {
+    cursor: pointer;
+  }
+
+
+ #fintech{
+   margin-left: 45%;
+}
+
+ .bi-card-text{
+   left: 350px;
+   top: 70px;
+   position: relative;
+ }
+
+ .bi-currency-dollar{
+   left: 350px;
+   top: 70px;
+   position: relative;
+ }
+
+ .bi-bank{
+   left: 350px;
+   top: 70px;
+   position: relative;
+ } 
+
+ .bi-bank2{
+   left: 350px;
+   top: 70px;
+   position: relative;
+ }
+
+ .bi-bar-chart-line{
+   left: 350px;
+   top: 70px;
+   position: relative;
+ }
+
+ .bi-calendar3-week{
+   left: 350px;
+   top: 70px;
+   position: relative;
+ }
+
+ .fa-1x {
+   font-size: 1.5rem;
+ }
+
+ a{
+  cursor: pointer;
+ }

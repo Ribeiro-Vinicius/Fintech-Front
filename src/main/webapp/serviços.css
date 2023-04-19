@@ -1,0 +1,72 @@
+@charset "UTF-8";
+.container-fluid {
+    background-color: #87CEFA ;
+    padding-bottom: 5px;
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+    box-sizing: border-box;
+    border-color: black;
+    border: 2px solid;
+    background-color:gray;
+    padding-bottom: 1px;
+    padding-top: 30px;
+    height: 130px;
+    font-size: 50px;
+}
+
+ 
+
+ .navbar-brand {
+    font-size: 50px;
+    padding: 0cm;
+    font-weight: lighter;
+    text-align: center;
+ }
+
+
+
+  .navbar-toggler {
+    cursor: pointer;
+  }
+
+
+ #fintech{
+   margin-left: 35%;
+   font-size: 50px;
+}
+
+ h1{
+    padding-left: 15%;
+    text-align: center;
+    font-size: 50px;
+}
+
+p{
+   padding-left: 15%;
+   text-align: center;
+   font-size: 50px;
+}
+
+ footer{
+    text-decoration: underline;
+    font-size: 30px;
+    padding-left: 25%;
+    padding-bottom: 20px;
+ }
+
+ a{
+    font-size: 50px;
+ }
+
+ label{
+   padding-left: 15px;
+ }
+
+ .botão{
+   margin-top: 15px;
+   margin-bottom: 15px;
+   font-size: 22px;
+ }

@@ -1,0 +1,18 @@
+@charset "UTF-8";
+form{
+    padding-bottom: 15px;
+ }
+ 
+ label{
+    padding-left: 15px;
+    margin-right: 5px;
+ }
+ 
+ .botão{
+    margin-left: 25px;
+ }
+ 
+ fieldset{
+    padding-top: 15px;
+    padding-bottom: 15px;
+ }

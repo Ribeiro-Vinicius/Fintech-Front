@@ -1,0 +1,47 @@
+@charset "UTF-8";
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+body{
+    background-color: gray ;
+    
+}
+
+#fintech{
+    background-color:#87CEFA;
+    border: 1px solid;
+    border-color: black;
+    padding-top: 0;
+    padding: 10px;
+}
+
+.row{
+    padding-top: 40px;
+    padding-bottom: 0%;
+}
+
+ .question{
+    padding-left: 18%;
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#botao{
+    padding-left: 17%;  
+}
+
+
+label{
+    padding-right: 5px;
+    position: relative;
+}
+
+fieldset{
+    padding: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
