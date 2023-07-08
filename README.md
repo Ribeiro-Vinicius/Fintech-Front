@@ -1,1 +1,1 @@
-O Front-End do projeto Fintech, realizado como atividade na FIAP
+O Front-End do Fintech, projeto realizado ao longo do primeiro ano na FIAP.
